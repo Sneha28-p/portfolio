@@ -4,7 +4,7 @@ Welcome to my personal portfolio website!
 This website showcases my projects, technical skills, and experience as a Full Stack Developer.
 
 🌐 **Live Portfolio:**  
-👉 https://your-portfolio-live-link.com
+👉 [https://portfolio-git-main-snehapatted28-8890s-projects.vercel.app/](https://portfolio-git-main-snehapatted28-8890s-projects.vercel.app/)
 
 ---
 
