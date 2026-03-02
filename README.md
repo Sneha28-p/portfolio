@@ -55,16 +55,27 @@ Deployed using Render, Vercel, and MongoDB Atlas.
 
 ### 🔹 Smart Edu
 Learning roadmap generator built using MERN stack with ML-based recommendation logic.
+- 💻 GitHub: https://github.com/Sneha28-p/smart-edu
+
+---
+
+### 🔹 Twitter API Project
+RESTful backend project built using Node.js, Express.js, MongoDB, and EJS templating.  
+Supports CRUD operations for tweet management with unique ID generation and method override for PATCH & DELETE requests.
+
+- 💻 GitHub: https://github.com/Sneha28-p/Twitter_clone
 
 ---
 
 ### 🔹 Simon Says Game
 Interactive memory game built using JavaScript and DOM manipulation.
+- 💻 GitHub: https://github.com/Sneha28-p/simon-says-webdev
 
 ---
 
 ### 🔹 GitHub Profile Viewer
 Web app that fetches and displays GitHub user data using the GitHub REST API.
+- 💻 GitHub: https://github.com/Sneha28-p/github-profile-viewer
 
 ---
 
