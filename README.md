@@ -62,13 +62,13 @@ Learning roadmap generator built using MERN stack with ML-based recommendation l
 ### 🔹 Twitter API Project
 RESTful backend project built using Node.js, Express.js, MongoDB, and EJS templating.  
 Supports CRUD operations for tweet management with unique ID generation and method override for PATCH & DELETE requests.
-
 - 💻 GitHub: https://github.com/Sneha28-p/Twitter_clone
 
 ---
 
 ### 🔹 Simon Says Game
 Interactive memory game built using JavaScript and DOM manipulation.
+- 🌐 Live Demo: https://simon-says-webdev.vercel.app/
 - 💻 GitHub: https://github.com/Sneha28-p/simon-says-webdev
 
 ---
