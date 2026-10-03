@@ -44,11 +44,16 @@ I enjoy building scalable web applications using modern technologies and turning
 
 ## 📂 Featured Projects
 
+### 🔹 Lunara – PCOS Screening & Recommendation App
+Full-stack mobile application for PCOS risk screening using machine learning, with personalized health recommendations. Built with React Native, Node.js, Express.js, MongoDB, and XGBoost.
+
+- 💻 GitHub: https://github.com/Sneha28-p/Blogify
+
+
 ### 🔹 Blogify (MERN Stack)
 Full-stack blog application with authentication and CRUD operations.  
 Deployed using Render, Vercel, and MongoDB Atlas.
 
-- 🌐 Live Demo: https://blogify-rose.vercel.app/
 - 💻 GitHub: https://github.com/Sneha28-p/Blogify
 
 ---
