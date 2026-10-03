@@ -47,7 +47,7 @@ I enjoy building scalable web applications using modern technologies and turning
 ### 🔹 Lunara – PCOS Screening & Recommendation App
 Full-stack mobile application for PCOS risk screening using machine learning, with personalized health recommendations. Built with React Native, Node.js, Express.js, MongoDB, and XGBoost.
 
-- 💻 GitHub: https://github.com/Sneha28-p/Blogify
+- 💻 GitHub: https://github.com/Sneha28-p/pcos-screaning
 
 
 ### 🔹 Blogify (MERN Stack)
